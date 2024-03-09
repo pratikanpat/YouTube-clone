@@ -14,3 +14,5 @@ This project is a simple implementation of a YouTube-like landing page using HTM
 - **Video Content:** Display of video thumbnails, titles, icons, and views in a scrollable format. Each video has a "Try Now" link for sponsored content.
 ## contributing
 Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and improvements are always welcome!
+## Licesnce
+This project is licensed under the MIT License - see the LICENSE file for details.
